@@ -2,11 +2,11 @@
 <messageGroup systemDate="2018-04-18T00:19:59.185+02:00" environment="prod">
     <message>
         <calypsoBook>
-            <calypsoTradeBookId>2223352</calypsoTradeBookId>
-            <bookName>FISUBCUST</bookName>
-            <processingOrganisation>1586170</processingOrganisation>
+            <calypsoTradeBookId>1</calypsoTradeBookId>
+            <bookName>x</bookName>
+            <processingOrganisation>2</processingOrganisation>
             <baseCurrency>EUR</baseCurrency>
-            <tccIdProcessingOrg>20140916</tccIdProcessingOrg>
+            <tccIdProcessingOrg>3</tccIdProcessingOrg>
             <createdBy>CALYPP</createdBy>
             <updatedAt>2018-04-18T00:19:59.182+02:00</updatedAt>
             <updatedBy>CALYPP</updatedBy>
@@ -14,7 +14,7 @@
     </message>
     <message>
         <calypsoBookAttribute>
-            <calypsoTradeBookId>2223352</calypsoTradeBookId>
+            <calypsoTradeBookId>2</calypsoTradeBookId>
             <attributeName>NORDEA_BOOK_TRADE_PURPOSE</attributeName>
             <attributeValue>Custody</attributeValue>
             <createdAt>2018-04-18T00:19:59.182+02:00</createdAt>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <calypsoBookAttribute>
-            <calypsoTradeBookId>2223352</calypsoTradeBookId>
+            <calypsoTradeBookId>3</calypsoTradeBookId>
             <attributeName>NORDEA_CSS_PROCESSING_COUNTRY</attributeName>
             <attributeValue>SE</attributeValue>
             <createdAt>2018-04-18T00:19:59.182+02:00</createdAt>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <calypsoBookAttribute>
-            <calypsoTradeBookId>2223352</calypsoTradeBookId>
+            <calypsoTradeBookId>4</calypsoTradeBookId>
             <attributeName>NORDEA_SUBCUST_BIC</attributeName>
             <attributeValue>NDEAFIHHXXX</attributeValue>
             <createdAt>2018-04-18T00:19:59.183+02:00</createdAt>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <calypsoBookAttribute>
-            <calypsoTradeBookId>2223352</calypsoTradeBookId>
+            <calypsoTradeBookId>5</calypsoTradeBookId>
             <attributeName>NORDEA_SUBCUST_PSET_BIC</attributeName>
             <attributeValue>APKEFIHHXXX</attributeValue>
             <createdAt>2018-04-18T00:19:59.183+02:00</createdAt>
@@ -58,7 +58,7 @@
     </message>
     <message>
         <calypsoBookAttribute>
-            <calypsoTradeBookId>2223352</calypsoTradeBookId>
+            <calypsoTradeBookId>6</calypsoTradeBookId>
             <attributeName>NORDEA_INTERNAL_MATCHING_ENABLED</attributeName>
             <attributeValue>false</attributeValue>
             <createdAt>2018-04-18T00:19:59.183+02:00</createdAt>
